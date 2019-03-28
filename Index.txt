@@ -7,3 +7,5 @@ Hi
 Hi
 
 Hello
+
+Added data in the remote origin master
