@@ -6,7 +6,7 @@ Hi
 
 Hi
 
-Hello
+Hello - To check the differences
 
 Moved HEAD to NewBranch - Added additional text
 
