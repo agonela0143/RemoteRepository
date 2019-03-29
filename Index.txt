@@ -8,6 +8,10 @@ Hi
 
 Hello - To check the differences
 
+Another change
+
+
 Moved HEAD to NewBranch - Added additional text
 
 Added data in the remote origin master
+
