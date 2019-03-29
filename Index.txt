@@ -8,6 +8,6 @@ Hi
 
 Hello
 
-Moved HEAD to NewBranch
+Moved HEAD to NewBranch - Added additional text
 
 Added data in the remote origin master
