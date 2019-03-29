@@ -10,6 +10,8 @@ Hello - To check the differences
 
 Another change
 
+Adding a line to unstage from staging
+
 
 Moved HEAD to NewBranch - Added additional text
 
